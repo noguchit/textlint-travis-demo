@@ -1,9 +1,8 @@
 {
-"rules": {
-        "spellcheck-tech-word": true,
-        "preset-ja-technical-writing": true
-    },
-    "filters": {
-        "comments": true
-    }
+  "filters": {},
+  "rules": {
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+    "spellcheck-tech-word": true
+  }
 }
